@@ -46,8 +46,8 @@ Welcome to the **Music Player Website**! This is a fully responsive web-based mu
 
 ![image](https://github.com/user-attachments/assets/2b5bfa14-fbb0-4cb6-b94f-ee3168260d13)
 
-![_C__Users_ajayp_Desktop_music-player_index html(iPhone 14 Pro Max)](https://github.com/user-attachments/assets/3a9e8efa-841d-4039-8c12-89df04328909)
 
+<img src="https://github.com/user-attachments/assets/3a9e8efa-841d-4039-8c12-89df04328909" alt="img" style="width:224px" />
 
 ### 🎨 **Credits**
 
